@@ -1,4 +1,4 @@
-# Demo Weiggered
+# Demo iggered
 
 Example Maven project generated using `maven-archetype-quickstart`
 
