@@ -1,4 +1,4 @@
-# Demo igedfgghdfhdfghcjfgred
+# Demo igedfgdfghcjfgred
 
 Example Maven project generated using `maven-archetype-quickstart`
 
