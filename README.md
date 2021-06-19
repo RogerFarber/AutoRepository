@@ -1,4 +1,4 @@
-# Demo Webhook  blaa bliggered
+# Demo Webhook  blaa biggered
 
 Example Maven project generated using `maven-archetype-quickstart`
 
